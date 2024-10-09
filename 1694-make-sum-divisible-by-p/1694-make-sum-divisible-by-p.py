@@ -1,10 +1,7 @@
 class Solution:
     def minSubarray(self, nums: List[int], p: int) -> int:
         n = len(nums)
-
-        totalSum = sum(nums)%p
-        
-        target = totalSum % p
+        target = sum(nums) % p
 
         if target == 0:
             return target
