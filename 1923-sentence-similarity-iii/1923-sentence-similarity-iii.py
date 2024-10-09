@@ -9,12 +9,13 @@ class Solution:
             a.pop(0)
             b.pop(0)
             if not(a and b):
-                return not(a and b)
+                break
         while a[-1:] == b[-1:]:
             a.pop(len(a)-1)
             b.pop(len(b)-1)
             if not(a and b):
-                return not(a and b)
+                break
+        print(a, b)
         return not(a and b)
 
 
