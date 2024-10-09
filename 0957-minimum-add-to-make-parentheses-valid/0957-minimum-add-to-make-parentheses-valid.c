@@ -14,5 +14,5 @@ int minAddToMakeValid(char* s) {
             }
         }
     }
-    return open + min;
+    return open ? open + min : min;
 }
