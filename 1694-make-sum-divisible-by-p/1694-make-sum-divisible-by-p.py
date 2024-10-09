@@ -2,10 +2,7 @@ class Solution:
     def minSubarray(self, nums: List[int], p: int) -> int:
         n = len(nums)
 
-        totalSum = 0
-
-        for num in nums:
-            totalSum = (totalSum + num) % p
+        totalSum = sum(nums)%p
         
         target = totalSum % p
 
@@ -16,8 +13,8 @@ class Solution:
         currSum = 0
         lenMin = n
 
-        for i in range(n):
-            currSum = (currSum + nums[i]) % p
+        for i, x in enumerate(nums):
+            currSum = (currSum + x) % p
 
             need = (currSum - target + p)%p
 
