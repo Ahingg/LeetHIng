@@ -1,11 +1,10 @@
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        w = {}
-
+        if arr.count(0) > 1:
+            return True
         for x in arr:
-            if x / 2 not in w and x*2 not in w:
-                w[x] = x*2
-            else:
+            
+            if x*2 in arr and x != 0:
                 return True
         return False        
 
