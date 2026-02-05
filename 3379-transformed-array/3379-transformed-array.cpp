@@ -5,7 +5,6 @@ public:
         vector<int> result(n);
         for(int i = 0; i < n; i++) {
             int x = abs(nums[i])%n;
-            cout << i-x  << " " << i + x << endl;
             result[i] = nums[((nums[i] < 0) ? n + i - x : i+x)%n];
 
             // if(x > 0) result.push_back(nums[(x+i)%n]);
