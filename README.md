@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ahingg/LeetHIng/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ahingg/LeetHIng/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ahingg/LeetHIng/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/Ahingg/LeetHIng/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ahingg/LeetHIng/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ahingg/LeetHIng/tree/master/1002-maximum-width-ramp) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ahingg/LeetHIng/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/Ahingg/LeetHIng/tree/master/3640-trionic-array-ii) |
 ## Enumeration
 |  |
