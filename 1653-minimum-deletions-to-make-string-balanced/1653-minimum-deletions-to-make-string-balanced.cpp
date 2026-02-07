@@ -17,7 +17,7 @@ public:
                     dp[i] = min(bCount, dp[i-1] + 1);
                 }
                 else dp[i] = dp[i-1];
-                cout << dp[i] << endl;
+                // cout << dp[i] << endl;
             }
         }
         return dp[len-1];
