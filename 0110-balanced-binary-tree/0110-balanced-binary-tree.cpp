@@ -13,12 +13,15 @@ class Solution {
 public:
     int getHeight(TreeNode* x){
         if(x == nullptr) return 0;
-        return max(getHeight(x->left) + 1, getHeight(x->right) + 1);
+        int leftH = getHeight(x->left);
+        int rightH = getHeight(x->right);
+        if(leftH == -1 || rightH == -1) return -1;
+        if(abs(leftH - rightH) > 1) return -1;
+        
+        return 1 + max(leftH, rightH);
     }
 
     bool isBalanced(TreeNode* root) {
-        if(root == nullptr) return true;
-        if(abs(getHeight(root->left) - getHeight(root->right)) > 1) return false;
-        return isBalanced(root->left) && isBalanced(root->right);
+        return getHeight(root) != -1;
     }
 };
