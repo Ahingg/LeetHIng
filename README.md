@@ -111,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ahingg/LeetHIng/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Ahingg/LeetHIng/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Ahingg/LeetHIng/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Ahingg/LeetHIng/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
