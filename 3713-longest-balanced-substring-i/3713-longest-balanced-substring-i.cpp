@@ -1,28 +1,25 @@
 class Solution {
 public:
     int longestBalanced(string s) {
-        map<int, int> count;
         int len = s.length();
-        int maxLen = 1;
+        int maxLen = 0;
         for(int i = 0; i < len; i++){
-            count.clear();
-            vector<int> arr;
-            cout << i << endl;
+            int count[26];
+            memset(count, 0, 26*sizeof(int));
+            int mx = -1e9;
+            int unique = 0;
             for(int j = i; j < len; j++){
+                int curLen = j-i+1;
+                // if(curLen < maxLen) continue;
                 int idx = s[j]-'a';
-                if(!count[idx]) arr.push_back(idx);
+                if(!count[idx]) unique++;
                 count[idx]++;
-
-                int l = count[arr[0]];
-                for(auto idx: arr){
-                    if(count[idx] != l) {
-                        l = -1;
-                        break;
-                    }
+                mx = max(count[idx], mx);
+                // cout << idx << " " << unique << endl;
+                if(unique*mx == curLen) {
+                    maxLen = max(curLen, maxLen);
                 }
-                if(l != -1) maxLen = max(maxLen, j-i+1);
             }
-            
         }
         return maxLen;
     }
