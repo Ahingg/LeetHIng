@@ -39,7 +39,7 @@ public:
             bool is_active = false;
             for(int a: alphabet) if(s[i]-'a' == a) is_active = true;
             if(!is_active){
-                diffLoc.clear();
+                diffLoc = {};
                 count[0] = count[1] = count[2] = 0;
                 diffLoc[{0,0}] = i+1;
                 continue;
