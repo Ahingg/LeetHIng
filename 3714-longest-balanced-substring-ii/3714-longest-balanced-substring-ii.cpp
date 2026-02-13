@@ -14,9 +14,6 @@ class Solution {
         }
     };
 public:
-    static const int MAXN = 1e5;
-    int count[3][MAXN];
-
     int getLengthForSpecific(string& s, vector<int> alphabet, const int len){
         int printOk = alphabet.size() == 2 && alphabet[0] == 0 && alphabet[1] == 1;
         if(alphabet.size() == 1) {
