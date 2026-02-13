@@ -18,7 +18,7 @@ public:
     int count[3][MAXN];
 
     int getLengthForSpecific(string& s, vector<int> alphabet, const int len){
-        int printOk = alphabet.size() == 3 && alphabet[0] == 0 && alphabet[1] == 1;
+        int printOk = alphabet.size() == 2 && alphabet[0] == 0 && alphabet[1] == 1;
         if(alphabet.size() == 1) {
             int maxL = 0, i = 0;
             char target = 'a' + alphabet[0];
@@ -30,7 +30,7 @@ public:
         }
 
         unordered_map<pair<int, int>, int, pair_hash> diffLoc;
-        diffLoc[{0,0}] = -1;
+        diffLoc[{0,0}] = -2;
         int count[3] = {0,0,0};
         int maxLen = 0;
         for(int i = 0; i < len; i++){
@@ -41,17 +41,18 @@ public:
             if(!is_active){
                 diffLoc.clear();
                 count[0] = count[1] = count[2] = 0;
-                diffLoc[{0,0}] = i;
+                diffLoc[{0,0}] = i+1;
                 continue;
             }
 
             int dif1 = count[alphabet[1]] - count[alphabet[0]];
             int dif2 = (alphabet.size() == 3) ? count[alphabet[1]] - count[alphabet[2]] : 0;
             
-            if(diffLoc.count({dif1,dif2})){
-                maxLen = max(maxLen, i-diffLoc[{dif1, dif2}]);
+            if(diffLoc[{dif1, dif2}]){
+                if(diffLoc[{dif1, dif2}] == -2) maxLen = max(maxLen, i+1);
+                else maxLen = max(maxLen, i-diffLoc[{dif1, dif2}]+1);
             }
-            else diffLoc[{dif1, dif2}] = i;
+            else diffLoc[{dif1, dif2}] = i+1;
             // if(printOk) {
             //     printf("%d: %d %d\n", i, dif1, dif2);
             //     printf("%d\n", diffLoc[{dif1, dif2}]);
