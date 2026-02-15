@@ -10,7 +10,6 @@ public:
         while(i < maxLen){
             int digit1 = len1 - i - 1 >= 0 ? a[len1-i-1] - '0' : 0;
             int digit2 = len2 - i - 1 >= 0 ? b[len2-i-1] - '0' : 0;
-            cout << i << ": "<< digit1 << " " << digit2 << endl;
             if(digit1 == digit2) {
                 result.insert(0, 1, excess ? '1' : '0');
                 if(!digit1 && excess) excess--;
