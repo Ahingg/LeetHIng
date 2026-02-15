@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/Ahingg/LeetHIng/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ahingg/LeetHIng/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ahingg/LeetHIng/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ahingg/LeetHIng/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3379-transformed-array](https://github.com/Ahingg/LeetHIng/tree/master/3379-transformed-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
 | [0670-maximum-swap](https://github.com/Ahingg/LeetHIng/tree/master/0670-maximum-swap) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ahingg/LeetHIng/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String Matching
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Ahingg/LeetHIng/tree/master/3713-longest-balanced-substring-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
