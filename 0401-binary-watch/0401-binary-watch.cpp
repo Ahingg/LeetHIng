@@ -1,10 +1,5 @@
 class Solution {
 public:
-    vector<string> result;
-    void constructHours(int turnedOn){
-
-    }
-
     vector<string> readBinaryWatch(int turnedOn) {
 vector<string> result;
         for (int h = 0; h < 12; h++) {
