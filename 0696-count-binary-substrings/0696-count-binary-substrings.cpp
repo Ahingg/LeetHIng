@@ -1,16 +1,15 @@
 class Solution {
 public:
     int countBinarySubstrings(string s) {
-        int count[2] = {0,1};
+        int count[2] = {0,0};
+        count[s[0] - '0']++;
         int total = 0;
         for(int i = 1; i < s.length(); i++) {
-            if(s[i] == s[i-1]) count[1]++;
-            else{
-                total += min(count[0], count[1]);
-                count[0] = count[1];
-                count[1] = 1;
-            } 
+            int x = s[i] - '0';
+            if(s[i] == s[i-1]) count[x]++;
+            else count[x] = 1; 
+            if(count[!x] >= count[x]) total++;
         }
-        return total + min(count[0], count[1]);
+        return total;
     }
 };
