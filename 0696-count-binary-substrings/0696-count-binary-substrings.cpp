@@ -6,8 +6,7 @@ public:
         int total = 0;
         for(int i = 1; i < s.length(); i++) {
             int x = s[i] - '0';
-            int y = (s[i-1] - '0');
-            if(x == y) count[x]++;
+            if(x == (s[i-1] - '0')) count[x]++;
             else count[x] = 1; 
             if(count[!x] >= count[x]) total++;
         }
