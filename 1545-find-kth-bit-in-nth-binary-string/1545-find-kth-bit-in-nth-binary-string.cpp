@@ -8,12 +8,7 @@ public:
         int mid = ((len-1)/2) + 1;
         // cout << "len, mid: " << len << " " << mid << endl;
         if(k == mid) return 1;
-        if(k > mid) {
-            int x = !process(n-1, 2*mid - k);
-            // cout << " k > return: " << x << endl;
-            return !process(n-1, 2*mid - k);
-        }
-        int x = process(n-1, k);
+        if(k > mid) return !process(n-1, 2*mid - k);
         // cout << " k < return: " << x << endl;
         return process(n-1, k);
     }
