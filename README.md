@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ahingg/LeetHIng/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahingg/LeetHIng/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1923-sentence-similarity-iii](https://github.com/Ahingg/LeetHIng/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ahingg/LeetHIng/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/Ahingg/LeetHIng/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ahingg/LeetHIng/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ahingg/LeetHIng/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahingg/LeetHIng/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ahingg/LeetHIng/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
+| [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ahingg/LeetHIng/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahingg/LeetHIng/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahingg/LeetHIng/tree/master/3714-longest-balanced-substring-ii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Ahingg/LeetHIng/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
