@@ -8,8 +8,8 @@ public:
         }
 
         string left = simulate(n-1, x + '0');
-        string right = simulate(n-1, x + '1');
         if(left != "") return left;
+        string right = simulate(n-1, x + '1');
         return right;
  
     }
