@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ahingg/LeetHIng/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ahingg/LeetHIng/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ahingg/LeetHIng/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahingg/LeetHIng/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ahingg/LeetHIng/tree/master/3719-longest-balanced-subarray-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahingg/LeetHIng/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ahingg/LeetHIng/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ahingg/LeetHIng/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/Ahingg/LeetHIng/tree/master/3640-trionic-array-ii) |
 ## Enumeration
 |  |
