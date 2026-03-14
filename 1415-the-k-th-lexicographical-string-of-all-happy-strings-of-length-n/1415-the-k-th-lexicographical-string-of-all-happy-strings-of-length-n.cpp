@@ -26,7 +26,7 @@ public:
         }
 
         // cout << "Curr: " << curr << " Next: " << first << endl << endl;
-        cout << count << " " << curr << endl;
+        // cout << count << " " << curr << endl;
         string left = bloom(n-1, k, first);
         if(left != "") return curr + left; 
         string right = bloom(n-1, k, second);
