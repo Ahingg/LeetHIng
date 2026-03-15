@@ -1,44 +1,61 @@
 class Fancy {
-public:
 
-    vector<bool> ops; // true if add, false if mul
-    vector<int> opNumber, numbers, starting;
-    int opCount = 0;
-    const static int MOD = 1e9 + 7;
+public:
+    typedef long long ll;
+    ll add = 0;
+    ll mul = 1;
+    const ll MOD = 1e9 + 7;
+    vector<ll> nums;
+    
     Fancy() {
         
     }
+
+    ll power(ll base, ll exp){
+        ll res = 1;
+        base %= MOD;
+        while(exp > 0){
+            if(exp%2 == 1) res = (res*base) % MOD;
+            base = (base*base)%MOD; 
+            exp /= 2;
+        }
+
+        return res;
+    }
+
+    ll modInverse(ll n){
+        return power(n, MOD-2);
+    }
     
     void append(int val) {
-        numbers.push_back(val);
-        starting.push_back(opCount);
+        ll x = (val - add + MOD) % MOD;
+        x = (x*modInverse(mul)) % MOD;
+        nums.push_back(x);
     }
     
     void addAll(int inc) {
-        ops.push_back(true);
-        opNumber.push_back(inc);
-        opCount++;
+        add = (add+inc) % MOD;
     }
     
     void multAll(int m) {
-        ops.push_back(false);
-        opNumber.push_back(m);
-        opCount++;
+        add = (add*m) % MOD;
+        mul = (mul*m) % MOD;
     }
     
     int getIndex(int idx) {
-        if(idx >= numbers.size()) return -1;
-        // cout << "query: " << idx << endl;
-        long long number = numbers[idx];
-        for(int i = starting[idx]; i < opCount; i++){
-            // cout << "Number: " << number << " opNumber: " << opNumber[i] << endl;  
-            // cout << "Ops" << ops[i] << endl;
-            if(ops[i]) number = (number + opNumber[i]) % MOD;
-            else number = (number * opNumber[i]) % MOD;
-        }
-        numbers[idx] = number;
-        starting[idx] = opCount;
-        return number;
+        if(idx >= nums.size()) return -1;
+        // // cout << "query: " << idx << endl;
+        // long long number = numbers[idx];
+        // for(int i = starting[idx]; i < opCount; i++){
+        //     // cout << "Number: " << number << " opNumber: " << opNumber[i] << endl;  
+        //     // cout << "Ops" << ops[i] << endl;
+        //     if(ops[i]) number = (number + opNumber[i]) % MOD;
+        //     else number = (number * opNumber[i]) % MOD;
+        // }
+        // numbers[idx] = number;
+        // starting[idx] = opCount;
+        // return number;
+        return ((nums[idx] * mul) + add) % MOD; 
     }
 };
 
