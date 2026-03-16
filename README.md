@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahingg/LeetHIng/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1923-sentence-similarity-iii](https://github.com/Ahingg/LeetHIng/tree/master/1923-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahingg/LeetHIng/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ahingg/LeetHIng/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ahingg/LeetHIng/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ahingg/LeetHIng/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ahingg/LeetHIng/tree/master/3634-minimum-removals-to-balance-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ahingg/LeetHIng/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ahingg/LeetHIng/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ahingg/LeetHIng/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahingg/LeetHIng/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/Ahingg/LeetHIng/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahingg/LeetHIng/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahingg/LeetHIng/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ahingg/LeetHIng/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahingg/LeetHIng/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahingg/LeetHIng/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
 |  |
