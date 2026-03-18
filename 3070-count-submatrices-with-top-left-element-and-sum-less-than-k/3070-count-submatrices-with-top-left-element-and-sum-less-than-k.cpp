@@ -7,6 +7,7 @@ public:
         int result = 0;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
+                
                 if(i == 0 && j == 0) prefix[i][j] = grid[i][j];
                 else if(i == 0) prefix[i][j] = grid[i][j] + prefix[i][j-1];
                 else if(j == 0) prefix[i][j] = grid[i][j] + prefix[i-1][j];
