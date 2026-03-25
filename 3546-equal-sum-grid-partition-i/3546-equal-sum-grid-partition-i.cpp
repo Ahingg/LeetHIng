@@ -5,33 +5,27 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<vector<ll>> sum(m, vector<ll>(n,0));
+        vector<ll> sumH(m, 0), sumV(n, 0);
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
-                if(j == 0) sum[i][j] = grid[i][j];
-                else sum[i][j] = sum[i][j-1] + grid[i][j];
+                sumH[i] += grid[i][j];
+                sumV[j] += grid[i][j];
+                if(j > 0 && i == m - 1) sumV[j] += sumV[j-1];
             }
+            if(i > 0) sumH[i] += sumH[i-1];
         }
-        
-        for(int i = 1; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                sum[i][j] += sum[i-1][j];
-            }
-        }
-        // for(auto a: sum) {
-        //     for(auto x: a) {
-        //         cout << x << " ";
-        //     }
-        //     cout << endl;
-        // }
 
-        ll total = sum[m-1][n-1];
-        for(int i = 0; i < m; i++){
-            if(sum[i][n-1] == (total - sum[i][n-1])) return true;
+        
+        for(auto x: sumH) {
+            if(x*2 == sumH[m-1]) return true;
+            // cout << x << " ";
         }
-        for(int i = 0; i < n; i++){
-            if(sum[m-1][i] == (total - sum[m-1][i])) return true;
+        // cout << endl;
+        for(auto x: sumV) {
+            if(x*2 == sumV[n-1]) return true;
+            // cout << x << " ";
         }
+        // cout << endl;
         return false;
     }
 };
