@@ -10,19 +10,21 @@ public:
             for(int j = 0; j < n; j++) {
                 sumH[i] += grid[i][j];
                 sumV[j] += grid[i][j];
-                if(j > 0 && i == m - 1) sumV[j] += sumV[j-1];
             }
             if(i > 0) sumH[i] += sumH[i-1];
         }
-        if(sumH[m-1] % 2 == 1) return false;
+        ll total = sumH[m-1];
+        if(total % 2 == 1) return false;
         
         for(auto x: sumH) {
-            if(x*2 == sumH[m-1]) return true;
+            if(x*2 == total) return true;
             // cout << x << " ";
         }
         // cout << endl;
+        ll f = 0;
         for(auto x: sumV) {
-            if(x*2 == sumV[n-1]) return true;
+            f += x;
+            if(f*2 == total) return true;
             // cout << x << " ";
         }
         // cout << endl;
