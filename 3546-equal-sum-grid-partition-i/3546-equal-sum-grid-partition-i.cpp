@@ -14,7 +14,7 @@ public:
             }
             if(i > 0) sumH[i] += sumH[i-1];
         }
-
+        if(sumH[m-1] % 2 == 1) return false;
         
         for(auto x: sumH) {
             if(x*2 == sumH[m-1]) return true;
