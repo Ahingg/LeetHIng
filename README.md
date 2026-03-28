@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ahingg/LeetHIng/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahingg/LeetHIng/tree/master/3713-longest-balanced-substring-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahingg/LeetHIng/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahingg/LeetHIng/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahingg/LeetHIng/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ahingg/LeetHIng/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Ahingg/LeetHIng/tree/master/1923-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ahingg/LeetHIng/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2906-construct-product-matrix](https://github.com/Ahingg/LeetHIng/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ahingg/LeetHIng/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahingg/LeetHIng/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ahingg/LeetHIng/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ahingg/LeetHIng/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/Ahingg/LeetHIng/tree/master/3640-trionic-array-ii) |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ahingg/LeetHIng/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahingg/LeetHIng/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ahingg/LeetHIng/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Ahingg/LeetHIng/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahingg/LeetHIng/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ahingg/LeetHIng/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
