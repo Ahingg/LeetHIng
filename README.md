@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ahingg/LeetHIng/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ahingg/LeetHIng/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ahingg/LeetHIng/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ahingg/LeetHIng/tree/master/3714-longest-balanced-substring-ii) |
