@@ -5,16 +5,16 @@ public:
         for(auto c: moves){
             switch(c) {
                 case 'U':
-                    y++;
+                    ++y;
                     break;
                 case 'D':
-                    y--;
+                    --y;
                     break;
                 case 'L':
-                    x--;
+                    --x;
                     break;
                 case 'R':
-                    x++;
+                    ++x;
                     break;
                 default:
                     break;
