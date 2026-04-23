@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahingg/LeetHIng/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ahingg/LeetHIng/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2615-sum-of-distances](https://github.com/Ahingg/LeetHIng/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Ahingg/LeetHIng/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Ahingg/LeetHIng/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahingg/LeetHIng/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
 | [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ahingg/LeetHIng/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2615-sum-of-distances](https://github.com/Ahingg/LeetHIng/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahingg/LeetHIng/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Ahingg/LeetHIng/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ahingg/LeetHIng/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/Ahingg/LeetHIng/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Ahingg/LeetHIng/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahingg/LeetHIng/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ahingg/LeetHIng/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
