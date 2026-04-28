@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ahingg/LeetHIng/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1923-sentence-similarity-iii](https://github.com/Ahingg/LeetHIng/tree/master/1923-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahingg/LeetHIng/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ahingg/LeetHIng/tree/master/2232-adding-spaces-to-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ahingg/LeetHIng/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ahingg/LeetHIng/tree/master/2463-minimum-total-distance-traveled) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ahingg/LeetHIng/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahingg/LeetHIng/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahingg/LeetHIng/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ahingg/LeetHIng/tree/master/2463-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ahingg/LeetHIng/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2751-robot-collisions](https://github.com/Ahingg/LeetHIng/tree/master/2751-robot-collisions) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Ahingg/LeetHIng/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahingg/LeetHIng/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahingg/LeetHIng/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahingg/LeetHIng/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahingg/LeetHIng/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ahingg/LeetHIng/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ahingg/LeetHIng/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ahingg/LeetHIng/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahingg/LeetHIng/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Ahingg/LeetHIng/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Ahingg/LeetHIng/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahingg/LeetHIng/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
