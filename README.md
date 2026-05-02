@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ahingg/LeetHIng/tree/master/0001-two-sum) |
+| [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Ahingg/LeetHIng/tree/master/0874-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/Ahingg/LeetHIng/tree/master/1002-maximum-width-ramp) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahingg/LeetHIng/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
 | [0670-maximum-swap](https://github.com/Ahingg/LeetHIng/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahingg/LeetHIng/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Ahingg/LeetHIng/tree/master/0788-rotated-digits) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ahingg/LeetHIng/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Ahingg/LeetHIng/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ahingg/LeetHIng/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
