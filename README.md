@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ahingg/LeetHIng/tree/master/0061-rotate-list) |
 | [0567-permutation-in-string](https://github.com/Ahingg/LeetHIng/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Ahingg/LeetHIng/tree/master/0696-count-binary-substrings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ahingg/LeetHIng/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -419,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ahingg/LeetHIng/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Ahingg/LeetHIng/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
