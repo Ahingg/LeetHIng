@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ahingg/LeetHIng/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ahingg/LeetHIng/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ahingg/LeetHIng/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ahingg/LeetHIng/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ahingg/LeetHIng/tree/master/3783-mirror-distance-of-an-integer) |
 ## String Matching
