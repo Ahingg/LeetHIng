@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1914-cyclically-rotating-a-grid) |
 | [1923-sentence-similarity-iii](https://github.com/Ahingg/LeetHIng/tree/master/1923-sentence-similarity-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ahingg/LeetHIng/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ahingg/LeetHIng/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahingg/LeetHIng/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ahingg/LeetHIng/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahingg/LeetHIng/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Ahingg/LeetHIng/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ahingg/LeetHIng/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahingg/LeetHIng/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahingg/LeetHIng/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahingg/LeetHIng/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ahingg/LeetHIng/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ahingg/LeetHIng/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ahingg/LeetHIng/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ahingg/LeetHIng/tree/master/3867-sum-of-gcd-of-formed-pairs) |
