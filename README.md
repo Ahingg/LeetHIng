@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ahingg/LeetHIng/tree/master/0001-two-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ahingg/LeetHIng/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ahingg/LeetHIng/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/Ahingg/LeetHIng/tree/master/0874-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/Ahingg/LeetHIng/tree/master/1002-maximum-width-ramp) |
 | [1260-shift-2d-grid](https://github.com/Ahingg/LeetHIng/tree/master/1260-shift-2d-grid) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ahingg/LeetHIng/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Ahingg/LeetHIng/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ahingg/LeetHIng/tree/master/1331-rank-transform-of-an-array) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ahingg/LeetHIng/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Ahingg/LeetHIng/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahingg/LeetHIng/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Ahingg/LeetHIng/tree/master/0788-rotated-digits) |
