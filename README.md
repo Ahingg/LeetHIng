@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ahingg/LeetHIng/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ahingg/LeetHIng/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/Ahingg/LeetHIng/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Ahingg/LeetHIng/tree/master/0877-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/Ahingg/LeetHIng/tree/master/1002-maximum-width-ramp) |
 | [1260-shift-2d-grid](https://github.com/Ahingg/LeetHIng/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ahingg/LeetHIng/tree/master/1288-remove-covered-intervals) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Ahingg/LeetHIng/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahingg/LeetHIng/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Ahingg/LeetHIng/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Ahingg/LeetHIng/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ahingg/LeetHIng/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/Ahingg/LeetHIng/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahingg/LeetHIng/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ahingg/LeetHIng/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Ahingg/LeetHIng/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Ahingg/LeetHIng/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Ahingg/LeetHIng/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ahingg/LeetHIng/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ahingg/LeetHIng/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -647,4 +650,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ahingg/LeetHIng/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ahingg/LeetHIng/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
