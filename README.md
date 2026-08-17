@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ahingg/LeetHIng/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahingg/LeetHIng/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahingg/LeetHIng/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/Ahingg/LeetHIng/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ahingg/LeetHIng/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Ahingg/LeetHIng/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ahingg/LeetHIng/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Ahingg/LeetHIng/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/Ahingg/LeetHIng/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahingg/LeetHIng/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Ahingg/LeetHIng/tree/master/1840-maximum-building-height) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ahingg/LeetHIng/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/Ahingg/LeetHIng/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ahingg/LeetHIng/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Ahingg/LeetHIng/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahingg/LeetHIng/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ahingg/LeetHIng/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ahingg/LeetHIng/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ahingg/LeetHIng/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Ahingg/LeetHIng/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ahingg/LeetHIng/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
