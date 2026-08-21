@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ahingg/LeetHIng/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ahingg/LeetHIng/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahingg/LeetHIng/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ahingg/LeetHIng/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ahingg/LeetHIng/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahingg/LeetHIng/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ahingg/LeetHIng/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahingg/LeetHIng/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ahingg/LeetHIng/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ahingg/LeetHIng/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahingg/LeetHIng/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ahingg/LeetHIng/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ahingg/LeetHIng/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ahingg/LeetHIng/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ahingg/LeetHIng/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ahingg/LeetHIng/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahingg/LeetHIng/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ahingg/LeetHIng/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Ahingg/LeetHIng/tree/master/3488-closest-equal-element-queries) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ahingg/LeetHIng/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahingg/LeetHIng/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahingg/LeetHIng/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ahingg/LeetHIng/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ahingg/LeetHIng/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ahingg/LeetHIng/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ahingg/LeetHIng/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -690,12 +694,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ahingg/LeetHIng/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ahingg/LeetHIng/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ahingg/LeetHIng/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ahingg/LeetHIng/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ahingg/LeetHIng/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ahingg/LeetHIng/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ahingg/LeetHIng/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
