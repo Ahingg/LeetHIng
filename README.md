@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Ahingg/LeetHIng/tree/master/0115-distinct-subsequences) |
 | [0567-permutation-in-string](https://github.com/Ahingg/LeetHIng/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Ahingg/LeetHIng/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Ahingg/LeetHIng/tree/master/0696-count-binary-substrings) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Ahingg/LeetHIng/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ahingg/LeetHIng/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Ahingg/LeetHIng/tree/master/0788-rotated-digits) |
