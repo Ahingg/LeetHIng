@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ahingg/LeetHIng/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ahingg/LeetHIng/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Ahingg/LeetHIng/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/Ahingg/LeetHIng/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Ahingg/LeetHIng/tree/master/0877-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/Ahingg/LeetHIng/tree/master/1002-maximum-width-ramp) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Ahingg/LeetHIng/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ahingg/LeetHIng/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ahingg/LeetHIng/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
