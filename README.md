@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ahingg/LeetHIng/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ahingg/LeetHIng/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ahingg/LeetHIng/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Ahingg/LeetHIng/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Ahingg/LeetHIng/tree/master/1872-stone-game-viii) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ahingg/LeetHIng/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ahingg/LeetHIng/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ahingg/LeetHIng/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ahingg/LeetHIng/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/Ahingg/LeetHIng/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahingg/LeetHIng/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Ahingg/LeetHIng/tree/master/1840-maximum-building-height) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Ahingg/LeetHIng/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ahingg/LeetHIng/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ahingg/LeetHIng/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ahingg/LeetHIng/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ahingg/LeetHIng/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/Ahingg/LeetHIng/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahingg/LeetHIng/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ahingg/LeetHIng/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ahingg/LeetHIng/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ahingg/LeetHIng/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
