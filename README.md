@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Ahingg/LeetHIng/tree/master/0115-distinct-subsequences) |
 | [0567-permutation-in-string](https://github.com/Ahingg/LeetHIng/tree/master/0567-permutation-in-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0032-longest-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ahingg/LeetHIng/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ahingg/LeetHIng/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahingg/LeetHIng/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Ahingg/LeetHIng/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ahingg/LeetHIng/tree/master/0486-predict-the-winner) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ahingg/LeetHIng/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
