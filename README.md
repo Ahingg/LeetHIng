@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ahingg/LeetHIng/tree/master/0115-distinct-subsequences) |
 | [0567-permutation-in-string](https://github.com/Ahingg/LeetHIng/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Ahingg/LeetHIng/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Ahingg/LeetHIng/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Ahingg/LeetHIng/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Ahingg/LeetHIng/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Ahingg/LeetHIng/tree/master/0940-distinct-subsequences-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ahingg/LeetHIng/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ahingg/LeetHIng/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ahingg/LeetHIng/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahingg/LeetHIng/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Ahingg/LeetHIng/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Ahingg/LeetHIng/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ahingg/LeetHIng/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ahingg/LeetHIng/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ahingg/LeetHIng/tree/master/1382-balance-a-binary-search-tree) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ahingg/LeetHIng/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Ahingg/LeetHIng/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ahingg/LeetHIng/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Ahingg/LeetHIng/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Ahingg/LeetHIng/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Ahingg/LeetHIng/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Ahingg/LeetHIng/tree/master/0877-stone-game) |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ahingg/LeetHIng/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ahingg/LeetHIng/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
