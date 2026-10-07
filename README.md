@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Ahingg/LeetHIng/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Ahingg/LeetHIng/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Ahingg/LeetHIng/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Ahingg/LeetHIng/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Ahingg/LeetHIng/tree/master/0678-valid-parenthesis-string) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Ahingg/LeetHIng/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/Ahingg/LeetHIng/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ahingg/LeetHIng/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Ahingg/LeetHIng/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ahingg/LeetHIng/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ahingg/LeetHIng/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ahingg/LeetHIng/tree/master/1559-detect-cycles-in-2d-grid) |
