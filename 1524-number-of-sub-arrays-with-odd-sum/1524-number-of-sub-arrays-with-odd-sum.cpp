@@ -1,13 +1,13 @@
 class Solution {
 public:
+    const int MOD = 1e9+7;
     int numOfSubarrays(vector<int>& arr) {
         int n = arr.size();
-        vector<int> pref(n+1, 0);
-        for(int i = 1; i <= n; i++) pref[i] = (pref[i-1] + arr[i-1]) % 2;
-        int odd = 0, even = 1;
-        int ans = 0, MOD = 1e9+7;
-        for(int i = 1; i <= n; i++) {
-            if(pref[i] & 1) {
+        int odd = 0, even = 1, sum = 0;
+        int ans = 0;
+        for(int i = 0; i < n; i++) {
+            sum += arr[i];
+            if(sum & 1) {
                 ans = (ans + even) % MOD;
                 odd++;
             }
